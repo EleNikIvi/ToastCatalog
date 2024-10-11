@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PrimaryLabel"
+        parent="TextAppearance.AppCompat">
+        <item name="android:textColor">?textColorPrimary</item>
+    </style>
+
+    <style name="SecondaryLabel"
+        parent="TextAppearance.AppCompat">
+        <item name="android:textColor">?textColorSecondary</item>
+    </style>
+
+    <style name="PrimaryLabel.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Label.H1"
+        parent="PrimaryLabel.Bold">
+        <item name="lineHeight">@dimen/line_height_h1</item>
+        <item name="android:textSize">@dimen/text_size_h1</item>
+    </style>
+
+    <style name="Label.H2"
+        parent="PrimaryLabel.Bold">
+        <item name="lineHeight">@dimen/line_height_h2</item>
+        <item name="android:textSize">@dimen/text_size_h2</item>
+    </style>
+
+    <style name="Label.H3"
+        parent="PrimaryLabel.Bold">
+        <item name="lineHeight">@dimen/line_height_h3</item>
+        <item name="android:textSize">@dimen/text_size_h3</item>
+    </style>
+
+    <style name="Label.H4"
+        parent="PrimaryLabel.Bold">
+        <item name="lineHeight">@dimen/line_height_h4</item>
+        <item name="android:textSize">@dimen/text_size_h4</item>
+    </style>
+
+    <style name="Label.H5"
+        parent="PrimaryLabel.Bold">
+        <item name="lineHeight">@dimen/line_height_h5</item>
+        <item name="android:textSize">@dimen/text_size_h5</item>
+    </style>
+
+    <style name="PrimaryLabel.Body1">
+        <item name="lineHeight">@dimen/line_height_body1</item>
+        <item name="android:textSize">@dimen/text_size_body1</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="PrimaryLabel.Body1.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="PrimaryLabel.Body2">
+        <item name="lineHeight">@dimen/line_height_body2</item>
+        <item name="android:textSize">@dimen/text_size_body2</item>
+    </style>
+
+    <style name="PrimaryLabel.Body2.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SecondaryLabel.Body2">
+        <item name="lineHeight">@dimen/line_height_body2</item>
+        <item name="android:textSize">@dimen/text_size_body2</item>
+    </style>
+
+    <style name="PrimaryLabel.Caption">
+        <item name="lineHeight">@dimen/line_height_text_caption</item>
+        <item name="android:textSize">@dimen/text_size_caption</item>
+    </style>
+
+    <style name="PrimaryLabel.Caption.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="PrimaryLabel.SmallLabel">
+        <item name="lineHeight">@dimen/line_height_small_label</item>
+        <item name="android:textSize">@dimen/text_size_small_label</item>
+    </style>
+
+    <style name="PrimaryLabel.SmallLabel.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="RoundedTextView">
+        <item name="android:background">@drawable/circle</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="RoundedTextView.ItemStyle">
+        <item name="android:textColor">?colorOnPrimary</item>
+        <item name="android:textSize">@dimen/text_size_h5</item>
+    </style>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background for cards -->
+    <attr name="backgroundRoundedTextView" format="reference" />
+
+    <!-- Text colors -->
+    <attr name="textColorPrimary" format="reference" />
+    <attr name="textColorSecondary" format="reference" />
+</resources>

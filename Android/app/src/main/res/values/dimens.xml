@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero">0dp</dimen>
+
+    <dimen name="divider_size">1dp</dimen>
+
+    <dimen name="spacing_1">4dp</dimen>
+    <dimen name="spacing_2">8dp</dimen>
+    <dimen name="spacing_3">12dp</dimen>
+    <dimen name="spacing_4">16dp</dimen>
+    <dimen name="spacing_5">18dp</dimen>
+    <dimen name="spacing_6">24dp</dimen>
+    <dimen name="spacing_8">32dp</dimen>
+    <dimen name="spacing_9">36dp</dimen>
+    <dimen name="spacing_10">40dp</dimen>
+    <dimen name="spacing_12">48dp</dimen>
+
+    <dimen name="item_image_size">30dp</dimen>
+</resources>
